@@ -7,10 +7,7 @@ CodeBlog is a web application where users can read articles about coding platfor
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-
-- [License](#license)
+- [Tables](#tables)
 
 ## Overview
 
@@ -32,6 +29,23 @@ CodeBlog provides a platform for coding enthusiasts to explore articles related 
  ![CodeBlog](/images/Homepage.png)
  ![CodeBlog](/images/page1.png)
 ![CodeBlog](/images/page2.png)
+
+
+## Tables
+
+Their are four tables users, comments, likes and reports
+
+![CodeBlog](/images/users.png)
+ ![CodeBlog](/images/comments.png)
+![CodeBlog](/images/likes_reports.png)
+
+
+## Getting Started
+#### Create a database and all required tablse in mysql.
+#### Install all dependencies for both server and clent side.
+#### Create .env file and  add environment variable  are secretKey,host,user,pass and dbname
+#### Run php server using  php -S localhost:5000
+#### Run reactjs using npm start
 
 
 
