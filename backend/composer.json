@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.6",
+        "nyholm/psr7": "^1.8",
+        "nyholm/psr7-server": "^1.1",
+        "slim/pdo": "^2.2",
+        "tuupola/cors-middleware": "^1.4",
+        "firebase/php-jwt": "^5.5",
+        "tuupola/slim-jwt-auth": "^3.8",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
